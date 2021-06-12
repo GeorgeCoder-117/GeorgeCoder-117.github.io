@@ -32,7 +32,7 @@ body {
 	width: 50px;
 	height: 50px;
 	color: #FFFFFF;
-	background-color: transparent;
+	background-color: var(--mainFont);
 	border-radius: 50%;
 	box-shadow: 0px 0px 3px 3px var(--fluorescentBlueColor);
 	display: flex;
@@ -187,7 +187,6 @@ img {
 	position: absolute;
 	width: 50%;
 	border-bottom: 5px dotted var(--fluorescentBlueColor);
-
 }
 
 .divide-line.right {
@@ -272,13 +271,13 @@ section {
 
 .aboutme-wrapper {
 	position: relative;
-	box-shadow: 0px 0px 10px 0px var(--fluorescentBlueColor);
+	
 }
 
 .aboutme-grap {
 	height: 80px;
 	width: 150px;
-	background-color: var(--fluorescentBlueColor);
+	background-color: var(--mainFont);
 	position: absolute;
 	z-index: 10;
 }
@@ -294,18 +293,19 @@ section {
 }
 
 .aboutme {	
-	background-color: #191919;
+	background-color: var(--fluorescentBlueColor);
 	padding: 1.5rem;
 	text-align: center;
 	position: relative;
 	z-index: 50;
 	border-radius: 20px;
+	box-shadow: 0px 0px 10px 0px var(--fluorescentBlueColor);
 }
 
 .aboutme p {
-	font-size: 2rem;
-	color: #000000;
-	text-shadow: 0px 0px 10px var(--fluorescentBlueColor);
+	font-size: 1.8rem;
+	color: var(--mainFont);
+	text-shadow: 0px 0px 10px #000000;
 }
 
 
@@ -351,7 +351,7 @@ section {
 /* BEGIN PORTFOLIO */
 
 .image1-project1 {
-	background-image: url("../Img/webproject1_1.png");
+	background-image: url("../Img/webproject1_4.png");
 }
 
 .image2-project1 {
@@ -564,7 +564,6 @@ footer {
 	color: var(--mainFont);
 	padding: 5px 10px;
 	border-radius: 20px;
-
 }
 
 /* ENDS FOOTER */
@@ -653,6 +652,13 @@ Responsive Design
 		margin-top: 1.5rem;
 	}
 
+	img {
+		width: 20vw;
+		position: absolute;
+		bottom: 0rem;
+		right: 0;
+	}
+
 	.skill {
 		display: grid;
 		justify-content: center;
@@ -694,8 +700,11 @@ Responsive Design
 		width: 90%;
 	}
 
-	.me img {
-		display: none;
+	img {
+		width: 20vw;
+		position: absolute;
+		bottom: -2rem;
+		right: 0;
 	}
 
 	.skills-wrapper {
@@ -733,6 +742,28 @@ Responsive Design
 	.footer-grid {
 		grid-template-columns: 100%;
 	}	 	
+
+}
+
+@media only screen and (max-width:520px) {
+
+	img {
+		width: 25vw;
+		position: absolute;
+		bottom: 0rem;
+		right: 0;
+	}
+
+}
+
+@media only screen and (max-width:322px) {
+
+	img {
+		width: 20vw;
+		position: absolute;
+		bottom: 4rem;
+		right: 0;
+	}
 
 }  
 
