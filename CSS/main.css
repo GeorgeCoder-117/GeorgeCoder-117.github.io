@@ -27,7 +27,7 @@ body {
 .whats-btn {
 	position: fixed;
 	z-index: 1000;
-	bottom: 90px;
+	bottom: 100px;
 	right: 20px;
 	width: 50px;
 	height: 50px;
@@ -312,6 +312,68 @@ section {
 /* ENDS ABOUT ME */
 
 
+/* CERTIFICATE SLIDER */
+
+.slider-container {
+	width: 40%;
+	margin: auto;	
+}
+
+.slider-container h1 {
+	color: var(--fluorescentBlueColor);
+	font-weight: 600;
+	font-size: 3rem;
+}
+
+.underline-slider {
+	width: 100%;
+	border-bottom: 5px solid var(--mainFont);
+}
+
+.slider {
+	padding: 1.5rem;
+	background-color: var(--fluorescentBlueColor);
+	box-shadow: 0px 0px 15px 0px var(--fluorescentBlueColor);
+	position: relative;
+	border-radius: 50px;
+}
+
+.slider div {	
+	height: 50vh;
+	background-size: 100%;	
+	opacity: 0;	
+	box-shadow: 0px 0px 20px 0px #000000;
+}
+
+.slider div:nth-child(1) {
+	background-image: url("../Img/cert1.png");
+	animation: zoomanimate 10s linear infinite;
+	animation-delay: 0s; /* Every 4s de image change automatically */
+}
+
+.slider div:nth-child(2) {
+	background-image: url("../Img/cert2.png");
+	animation: zoomanimatee 10s linear infinite;
+	animation-delay: 0s;
+}
+
+@keyframes zoomanimate { /* the effect changes automatically the zoom on image */ 
+	0%,100% {opacity: 0;}
+	10% {opacity: 1;}
+	25% {opacity: 1; transform: scale(.6) rotate(0deg);}
+	60% {opacity: 0; transform: scale(.7) rotate(50deg);} 
+}
+
+@keyframes zoomanimatee { /* the effect changes automatically the zoom on image */ 
+	0%,100% {opacity: 0;}
+	10% {opacity: 1;}
+	25% {opacity: 1; transform: scale(.6) rotate(0deg);}
+	60% {opacity: 0; transform: scale(.7) rotate(-50deg);} 
+}
+
+/* END CERTIFICATE */
+
+
 /* BEGINS SKILLS */
 
 .skills-wrapper {
@@ -584,6 +646,22 @@ Responsive Design
 		min-height: 30vh;
 	}
 
+	.slider-container {
+		width: 90%;
+		margin: auto;	
+	}
+
+	.underline-slider {
+		display: none;
+	}
+
+	.slider div {	
+		height: 48vh;
+		background-size: 100%;	
+		opacity: 0;	
+		box-shadow: 0px 0px 20px 0px #000000;
+	}
+
 	.skill {
 		display: grid;
 		justify-content: center;
@@ -754,7 +832,48 @@ Responsive Design
 		right: 0;
 	}
 
+	.slider-container {
+		width: 100%;
+		margin: auto;	
+	}
+
+	.slider div {	
+		max-height: 35vh;
+		background-size: 100%;	
+		opacity: 0;	
+		box-shadow: 0px 0px 20px 0px #000000;
+	}
+
 }
+
+@media only screen and (max-width:380px) {
+	.slider-container {
+		width: 100%;
+		
+	}
+
+	.slider div {	
+		max-height: 30vh;
+		background-size: 100%;	
+		opacity: 0;	
+		box-shadow: 0px 0px 20px 0px #000000;
+	}
+}  
+
+
+@media only screen and (max-width:361px) {
+	.slider-container {
+		width: 90%;
+		
+	}
+
+	.slider div {	
+		max-height: 33vh;
+		background-size: 100%;	
+		opacity: 0;	
+		box-shadow: 0px 0px 20px 0px #000000;
+	}
+} 
 
 @media only screen and (max-width:322px) {
 
@@ -766,6 +885,23 @@ Responsive Design
 	}
 
 }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
