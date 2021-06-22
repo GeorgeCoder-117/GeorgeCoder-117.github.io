@@ -636,6 +636,19 @@ Responsive Design
 -----------------
 */
 
+@media only screen and (max-width:1400px) {
+
+	.slider-container {
+		width: 52%;
+		margin: auto;	
+	}
+
+	.underline-slider {
+		display: none;
+	}
+
+}
+
 @media only screen and (max-width:1026px) {
 
 	.wrapper {
