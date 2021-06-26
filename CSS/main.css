@@ -885,7 +885,15 @@ Responsive Design
 		right: 0;
 	}
 
-}  
+}
+
+@media print {
+
+	html , body {
+		display: none;
+	}
+
+} 
 
 
 
