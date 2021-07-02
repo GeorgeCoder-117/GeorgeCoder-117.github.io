@@ -513,7 +513,7 @@ section {
 
 .slider div {	
 	height: 50vh;
-	background-size: 100%;	
+	background-size: cover;	
 	opacity: 0;	
 	box-shadow: 0px 0px 20px 0px #000000;
 }
