@@ -649,12 +649,11 @@ section {
 }
 
 .portfolio div {
-	height: 344px;	
+	height: 60vh;	
 	margin-top: 1rem;
 	border-radius: 3px;
-	background-size: 100%; /*Adjust full image to the Div */
-	background-repeat: no-repeat;
-	box-shadow: 0px 0px 10px 0px var(--fluorescentBlueColor);
+	background-size: contain; /*Adjust full image to the Div */
+	background-repeat: no-repeat;	
 }
 
 /* ENDS PORTFOLIO */
@@ -844,7 +843,7 @@ Responsive Design
 
 	.portfolio div {
 		height: 40vh;	
-		background-size: 100%; /*Adjust full image to the Div */
+		background-size: contain; /*Adjust full image to the Div */
 		box-shadow: none;
 	} 
 
@@ -923,7 +922,7 @@ Responsive Design
 
 	.portfolio div {
 		height: 570px;	
-		background-size: 100%; /*Adjust full image to the Div */
+		background-size: contain; /*Adjust full image to the Div */
 		box-shadow: none;
 	}
 
@@ -975,8 +974,8 @@ Responsive Design
 
 	.portfolio div {
 		height: 65vh;	
-		background-size: 100%; /*Adjust full image to the Div */
-		box-shadow: 0px 0px 10px 0px var(--fluorescentBlueColor);
+		background-size: contain; /*Adjust full image to the Div */
+		box-shadow: none;
 	}
 
 	.service-grid {
