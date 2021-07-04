@@ -793,6 +793,34 @@ footer {
 	font-size: 1.3rem;
 }
 
+#callme {
+	animation: callmee 1.2s infinite;	
+}
+
+@keyframes callmee {
+	0% {		
+		opacity: 1;
+	}
+
+	100% {		
+		opacity: .1;
+	}
+}
+
+#emailme {
+	animation: emailmee 1s infinite;	
+}
+
+@keyframes emailmee {
+	0% {		
+		opacity: 1;
+	}
+
+	100% {		
+		opacity: .1;
+	}
+}
+
 .btn-sms {
 	border: 3px solid var(--fluorescentBlueColor);
 	background-color: transparent;
@@ -974,7 +1002,7 @@ Responsive Design
 	}
 
 	.portfolio div {
-		height: 65vh;	
+		height: 66vh;	
 		background-size: contain; /*Adjust full image to the Div */
 		box-shadow: none;
 	}
@@ -1005,6 +1033,7 @@ Responsive Design
 
 	.slider-container {
 		width: 90%;
+
 	}
 
 	.slider div {	
@@ -1015,7 +1044,8 @@ Responsive Design
 
 @media only screen and (max-width:380px) {
 	.slider-container {
-		width: 90%;		
+		width: 90%;
+		
 	}
 
 	.slider div {	
@@ -1053,17 +1083,6 @@ Responsive Design
 	}
 
 }   
-
-
-
-
-
-
-
-
-
-
-
 
 
 
