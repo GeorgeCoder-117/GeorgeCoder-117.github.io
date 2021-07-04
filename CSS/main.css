@@ -230,6 +230,7 @@ body {
 	align-items: center;
 	font-size: 30px;
 	cursor: pointer;
+	-webkit-tap-highlight-color: transparent;
 }
 
 .scroll-up i {
