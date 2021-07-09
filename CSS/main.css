@@ -520,15 +520,29 @@ section {
 }
 
 .slider div:nth-child(1) {
+	background-image: url("../Img/googlecert.png");
+	animation: googleanimate 10s linear infinite;
+	animation-delay: 0s; /* Every 4s de image change automatically */
+}
+
+.slider div:nth-child(2) {
 	background-image: url("../Img/cert1.png");
 	animation: zoomanimate 10s linear infinite;
 	animation-delay: 0s; /* Every 4s de image change automatically */
 }
 
-.slider div:nth-child(2) {
+.slider div:nth-child(3) {
 	background-image: url("../Img/cert2.png");
 	animation: zoomanimatee 10s linear infinite;
 	animation-delay: 0s;
+}
+
+@keyframes googleanimate { /* the effect changes automatically the zoom on image */ 
+	0%, {opacity: 0;}
+	10% {opacity: 0.7; transform: scale(.65)}
+	25% {opacity: 0.8; transform: scale(.80);}
+	60% {opacity: 0.98; transform: scale(.98);}
+	100% {opacity: 1;} 
 }
 
 @keyframes zoomanimate { /* the effect changes automatically the zoom on image */ 
