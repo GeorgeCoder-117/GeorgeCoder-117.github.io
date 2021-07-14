@@ -241,6 +241,21 @@ a {
 	color: #FFFFFF;
 }
 
+#tocontact {
+	animation: contactmee 1s infinite;
+}
+
+@keyframes contactmee{
+	0% {
+		box-shadow: 0 0 6px 6px var(--fluorescentBlueColor); 
+		opacity: 1;
+	}
+
+	100% {
+		opacity: .1;
+	}
+}
+
 .uil {
 	color: #00CBCE;
 }
@@ -655,8 +670,8 @@ section {
 
 .portfolio i {
 	font-size: 2rem;
-	color: #000000;
-	text-shadow: 0px 0px 15px var(--fluorescentBlueColor);
+	color: var(--fluorescentBlueColor);
+	text-shadow: 0px 0px 2px var(--fluorescentBlueColor);
 }
 
 .portfolio small {
