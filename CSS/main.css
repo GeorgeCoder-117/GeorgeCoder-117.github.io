@@ -686,6 +686,20 @@ section {
 	background-repeat: no-repeat;	
 }
 
+#webproject{
+	animation: mandiles 1s infinite;
+}
+
+@keyframes mandiles{
+	0% {
+		opacity: 1;
+	}
+
+	100% {
+		opacity: .1;
+	}
+}
+
 /* ENDS PORTFOLIO */
 
 
