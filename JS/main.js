@@ -1,1 +1,583 @@
-const _0x47c3=['#myexperience','li:nth-child(3)','<h3>Technical\x20Support</h3>','li:nth-child(5)','uil-plus-circle','411277aVDaho','querySelectorAll','.uil-plus-circle','Bilingual\x20Technical\x20Support','click','<a\x20href=\x27#contactme\x27><i\x20class=\x27uil\x20uil-envelope-exclamation\x27></i>\x20Contact</a>','li:nth-child(6)','<p>Awesome\x20colorful\x20QR\x20codes\x20with\x20Logo\x20personalization,\x20easy\x20on\x20the\x20eye.</p>','<i\x20class=\x27uil\x20uil-calendar-alt\x27></i>\x202021-Today','percircle','display','p:nth-child(2)','innerHTML','h3:nth-child(2)','style','<p>Web\x20developer\x20with\x20almost\x20two\x20years\x20of\x20experience\x20on\x20the\x20field,\x20Front\x20End\x20and\x20Back\x20End\x20,\x20I\x20love\x20coding.</p>','<h1>Experience</h1>','<p>Focused\x20on\x20giving\x20a\x20nice\x20user\x20experience\x20and\x20awesome\x20intuitive\x20user\x20interface.</p>','li:nth-child(1)','<a\x20href=\x27#myexperience\x27>Experience</a>','keyup','writeText','<h1>Web\x20Skills</h1>','preventDefault','<a\x20href=\x27sms:+525576578841\x27\x20class=\x27btn-sms\x27><i\x20class=\x27uil\x20uil-comment-alt-lines\x27></i>\x20Send\x20me\x20a\x20SMS</a>','<li><a\x20id=\x27callme\x27\x20href=\x27tel:+525576578841\x27><i\x20class=\x27uil\x20uil-outgoing-call\x27></i>\x20Call\x20me!</a></li>','<p>Linux\x20based\x20Web\x20Server\x20management\x20with\x20control\x20CPanel.</p>','.aboutme','oncontextmenu','.slider\x20div:nth-child(2)','key','#myservices','keydown','#myportfolio','.loader','733060QWOvRu','<h3>Google\x20Services</h3>','ERROR\x20SCREENSHOT\x20DISABLED!\x20\x0aDont\x20try\x20it\x20again\x20or\x20you\x20will\x20be\x20reported','ERROR\x20This\x20Website\x20doesnt\x20allow\x20cut\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported','ctrlKey','none','Junior\x20Web\x20Developer','<h1>Services</h1>','load','<h3>QR\x20Personalization</h3>','nextSibling','small','#00CBCE','.slider-container','<h1>Portfolio</h1>','<li><a\x20href=\x27#myservices\x27>Services</a></li>','103282ldxgyc','<h3>ShortCuts</h3>','<h3>Web\x20Development</h3>','512031LKrEbt','<li><a\x20href=\x27#beginning\x27>Main</a></li>','<h3>Web\x20Server\x20Settings</h3>','addEventListener','ERROR\x20This\x20section\x20doesnt\x20allow\x20impression\x20or\x20PDF\x20export\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported','#myskills','.portfolio','font-size:1.25rem;line-height:1.1;','#skillcircle-4','.slider\x20div:nth-child(1)','.service','#aboutmyself','p:nth-child(3)','querySelector','clipboard','Web\x20Developer','.me','<li><a\x20href=\x27#myskills\x27>Skills</a></li>','ERROR\x20This\x20Website\x20cant\x20be\x20downloaded\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported','29fuuPDm','21JIVeAh','<a\x20href=\x27#myservices\x27>Services</a>','li:nth-child(4)','Essential\x20for\x20all\x20kind\x20of\x20business','Certificates','<a\x20href=\x27#beginning\x27>Main</a>','firstChild','<h3>Web\x20Link\x20below</h3>','className','<h1\x20style=\x27font-size:2.8rem;\x20line-height:\x204.2rem;\x27>Hi\x20!\x20<br>\x20My\x20name\x20is\x20Jorge\x20<br>\x20I\x27m\x20a\x20computer\x20<br>\x20systems\x20engineer</h1>','#skillcircle-1','p:nth-child(1)','uil-times-circle','.slider\x20div:nth-child(3)','warn','#skillcircle-3','metaKey','block','<i\x20class=\x27uil\x20uil-globe\x27\x20style=\x27color:#FFFFFF;\x27></i>\x20<p>ES</p>','li:nth-child(2)','reload','setInterval','#skillcircle-2','.language-btn','539792DbidBx','h3:nth-child(1)','.btn-sms','\x0a\x0a\x09<div\x20class=\x22loader\x22>\x0a\x09\x09<span\x20style=\x22--i:1;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:2;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:3;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:4;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:5;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:6;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:7;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:8;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:9;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:10;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:11;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:12;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:13;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:14;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:15;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:16;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:17;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:18;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:19;\x22></span>\x0a\x09\x09<span\x20style=\x22--i:20;\x22></span>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22container-btn\x22>\x0a\x09\x09<input\x20type=\x22checkbox\x22\x20id=\x22btn-plus\x22>\x0a\x09\x09<div\x20class=\x22btnplus\x22>\x0a\x09\x09\x09<label\x20for=\x22btn-plus\x22\x20class=\x22uil\x20uil-plus-circle\x22></label>\x0a\x09\x09</div>\x0a\x09\x09<div\x20class=\x22hiddenBtns\x22>\x0a\x09\x09\x09<a\x20class=\x22whats-btn\x22\x20href=\x22https://api.whatsapp.com/send?phone=+525576578841\x22\x20target=\x22_blank\x22><i\x20class=\x22uil\x20uil-whatsapp\x22></i></a>\x0a\x09\x09\x09<a\x20class=\x22language-btn\x22><i\x20class=\x22uil\x20uil-globe\x22></i>\x20<p>EN</p></a>\x0a\x09\x09</div>\x0a\x09</div>\x09\x0a\x0a\x09<div\x20class=\x22scroll-up\x22>\x0a\x09\x09<i\x20class=\x22uil\x20uil-sort\x22></i>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22wrapper\x22>\x0a\x0a\x09\x09<input\x20type=\x22checkbox\x22\x20id=\x22menu-toggle\x22>\x0a\x09\x09<header>\x0a\x09\x09\x09<h3>MI\x20CV\x20<i\x20class=\x22uil\x20uil-user\x22></i></h3>\x0a\x09\x09\x09<div\x20class=\x22main-menu\x22>\x0a\x09\x09\x09\x09<ul>\x0a\x09\x09\x09\x09\x09<li><a\x20href=\x22#beginning\x22>Inicio</a></li>\x0a\x09\x09\x09\x09\x09<li><a\x20href=\x22#myskills\x22>Habilidades</a></li>\x0a\x09\x09\x09\x09\x09<li><a\x20href=\x22#myportfolio\x22>Portafolio</a></li>\x0a\x09\x09\x09\x09\x09<li><a\x20href=\x22#myexperience\x22>Experiencia</a></li>\x0a\x09\x09\x09\x09\x09<li><a\x20href=\x22#myservices\x22>Servicios</a></li>\x0a\x09\x09\x09\x09\x09<li><a\x20id=\x22tocontact\x22\x20href=\x22#contactme\x22><i\x20class=\x22uil\x20uil-envelope-exclamation\x22></i>\x20Contacto</a></li>\x0a\x09\x09\x09\x09</ul>\x0a\x09\x09\x09</div>\x0a\x0a\x09\x09\x09<label\x20for=\x22menu-toggle\x22>\x0a\x09\x09\x09\x09<i\x20class=\x22uil\x20uil-bars\x22></i>\x0a\x09\x09\x09</label>\x0a\x09\x09</header>\x0a\x0a\x09\x09<div\x20class=\x22me\x22>\x0a\x09\x09\x09<div>\x0a\x09\x09\x09\x09<h1>Hola\x20!\x20<br>\x20Mi\x20nombre\x20es\x20Jorge\x20<br>\x20soy\x20Ing.\x20en\x20Sistemas</h1>\x0a\x09\x09\x09\x09<a\x20id=\x22beginning\x22\x20href=\x22#aboutmyself\x22><i\x20class=\x22uil\x20uil-angle-double-right\x22></i>\x20Empecemos</a>\x0a\x09\x09\x09</div>\x0a\x09\x09\x09<img\x20src=\x22Img/mee.jpg\x22\x20alt=\x22\x22>\x09\x09\x09\x0a\x09\x09</div>\x0a\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20right\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22wrapper\x22>\x0a\x09\x09\x0a\x09\x09<section>\x0a\x09\x09\x09<div\x20class=\x22section-title\x22\x20id=\x22aboutmyself\x22>\x0a\x09\x09\x09\x09<h1\x20>Acerca\x20de\x20Mi</h1>\x0a\x09\x09\x09\x09<div\x20class=\x22underline\x22></div>\x0a\x09\x09\x09</div>\x0a\x0a\x09\x09\x09<div\x20class=\x22aboutme-wrapper\x22>\x0a\x09\x09\x09\x09<div\x20class=\x22aboutme-grap\x20left\x22></div>\x0a\x09\x09\x09\x09<div\x20class=\x22aboutme-grap\x20right\x22></div>\x0a\x09\x09\x09\x09<div\x20class=\x22aboutme\x22>\x0a\x09\x09\x09\x09\x09<p>Desarrollador\x20Web\x20Junior\x20con\x20más\x20de\x201\x20año\x20y\x20medio\x20de\x20experiencia\x20en\x20el\x20campo,\x20Front\x20End\x20y\x20Back\x20End,\x20apasionado\x20por\x20la\x20tecnología.</p>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09</div>\x09\x09\x09\x0a\x09\x09</section>\x0a\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20left\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22slider-container\x22>\x0a\x09\x09<center><h1>Certificados</h1></center>\x0a\x09\x09<div\x20class=\x22underline-slider\x22></div>\x0a\x09\x09<br><br>\x0a\x09\x09<div\x20class=\x22slider\x22>\x0a\x09\x09\x09<div></div>\x0a\x09\x09\x09<div></div>\x0a\x09\x09\x09<div></div>\x09\x09\x09\x0a\x09\x09</div>\x09\x09\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20right\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22wrapper\x22>\x0a\x09\x09\x0a\x09\x09<section>\x0a\x09\x09\x09<div\x20class=\x22section-title\x22\x20id=\x22myskills\x22>\x0a\x09\x09\x09\x09<h1>Habilidades</h1>\x0a\x09\x09\x09\x09<div\x20class=\x22underline\x22></div>\x0a\x09\x09\x09</div>\x0a\x09\x09\x09<div\x20class=\x22skills-wrapper\x22>\x0a\x09\x09\x09\x09<div\x20class=\x22skill\x22>\x0a\x09\x09\x09\x09\x09<div\x20id=\x22skillcircle-1\x22\x20data-percent=\x2270\x22></div>\x0a\x09\x09\x09\x09\x09<p>HTML\x20<i\x20class=\x22uil\x20uil-html5\x22></i></p>\x09\x09\x09\x09\x09\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20class=\x22skill\x22>\x0a\x09\x09\x09\x09\x09<div\x20id=\x22skillcircle-2\x22\x20data-percent=\x2260\x22></div>\x0a\x09\x09\x09\x09\x09<p>CSS\x20<i\x20class=\x22uil\x20uil-css3-simple\x22></i></p>\x09\x09\x09\x09\x09\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20class=\x22skill\x22>\x0a\x09\x09\x09\x09\x09<div\x20id=\x22skillcircle-3\x22\x20data-percent=\x2265\x22></div>\x0a\x09\x09\x09\x09\x09<p><i\x20class=\x22uil\x20uil-java-script\x22></i>\x20JavaScript\x20</p>\x09\x09\x09\x09\x09\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09<div\x20class=\x22skill\x22>\x0a\x09\x09\x09\x09\x09<div\x20id=\x22skillcircle-4\x22\x20data-percent=\x2265\x22></div>\x0a\x09\x09\x09\x09\x09<p><i\x20class=\x22uil\x20uil-arrow\x22></i>\x20PHP\x20</p>\x09\x09\x09\x09\x09\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09</div>\x0a\x09\x09</section>\x0a\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20left\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22wrapper\x22>\x0a\x09\x09\x0a\x09\x09<section>\x0a\x09\x09\x09<div\x20class=\x22section-title\x22\x20id=\x22myportfolio\x22>\x0a\x09\x09\x09\x09<h1>Portafolio</h1>\x0a\x09\x09\x09\x09<div\x20class=\x22underline\x22></div>\x0a\x09\x09\x09\x09<small>Estos\x20son\x20algunos\x20de\x20los\x20proyectos\x20web\x20que\x20he\x20hecho.</small>\x0a\x09\x09\x09\x09<h2>E-commerce\x20y\x20Landing\x20Pages</h2>\x0a\x09\x09\x09\x09<small>Vitales\x20para\x20todo\x20tipo\x20de\x20negocio.</small>\x0a\x09\x09\x09</div>\x0a\x0a\x0a\x09\x09\x09<div\x20class=\x22portfolio-wrapper\x22>\x0a\x09\x09\x09\x09<div\x20class=\x22bg-grap\x20left\x22></div>\x0a\x09\x09\x09\x09<div\x20class=\x22bg-grap\x20right\x22></div>\x0a\x09\x09\x09\x09<div\x20class=\x22portfolio\x22>\x0a\x09\x09\x09\x09\x09<h3><i\x20class=\x22uil\x20uil-selfie\x22></i></h3>\x0a\x09\x09\x09\x09\x09<h3>Responsive\x20Design</h3>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22image1-project1\x22></div>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22portfolio\x22>\x0a\x09\x09\x09\x09\x09<h3>Enlace\x20a\x20Web\x20abajo</h3>\x0a\x09\x09\x09\x09\x09<small\x20id=\x22webproject\x22><a\x20href=\x22https://mandiles.epizy.com/main\x22\x20target=\x22_blank\x22><i\x20class=\x22uil\x20uil-location-arrow\x22></i><i\x20class=\x22uil\x20uil-globe\x22></i></a></small>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22image2-project1\x22></div>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22portfolio\x22>\x0a\x09\x09\x09\x09\x09<h3><i\x20class=\x22uil\x20uil-google\x22></i></h3>\x0a\x09\x09\x09\x09\x09<h3>Google\x20Maps</h3>\x0a\x0a\x09\x09\x09\x09\x09<div\x20class=\x22image3-project1\x22></div>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09</div>\x0a\x09\x09</section>\x0a\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20right\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22new-wrapper\x22>\x0a\x09\x09\x0a\x09\x09<section>\x0a\x09\x09\x09<div\x20class=\x22section-title\x22\x20id=\x22myexperience\x22>\x0a\x09\x09\x09\x09<h1>Experiencia\x20Profesional</h1>\x0a\x09\x09\x09</div>\x0a\x0a\x09\x09\x09<div\x20class=\x22experience-wrapper\x22>\x0a\x09\x09\x09\x09<li\x20class=\x22item\x22\x20id=\x22atento\x22>\x0a\x09\x09\x09\x09\x09<a\x20href=\x22#atento\x22\x20class=\x22btn\x22>Atento</a>\x0a\x09\x09\x09\x09\x09<div\x20class=\x22experience\x22>\x0a\x09\x09\x09\x09\x09\x09<p>Soporte\x20técnico\x20bilingüe</p>\x0a\x09\x09\x09\x09\x09\x09<p><i\x20class=\x22uil\x20uil-calendar-alt\x22></i>\x202018-2019</p>\x0a\x09\x09\x09\x09\x09\x09<p>Test\x20en\x20Inglés\x20EFSET\x20->\x20<a\x20href=\x22http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTc3MTA5MDc1NzcS1&j=MTc2NDI3MjMxMgS2&mt\x22\x20target=\x22_blank\x22><i\x20class=\x22uil\x20uil-link-alt\x22></i></a></p>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09</li>\x0a\x0a\x09\x09\x09\x09<li\x20class=\x22item\x22\x20id=\x22cefodeh\x22>\x0a\x09\x09\x09\x09\x09<a\x20href=\x22#cefodeh\x22\x20class=\x22btn\x22>Cefodeh</a>\x0a\x09\x09\x09\x09\x09<div\x20class=\x22experience\x22>\x0a\x09\x09\x09\x09\x09\x09<p>Desarrollador\x20Web</p>\x0a\x09\x09\x09\x09\x09\x09<p><i\x20class=\x22uil\x20uil-calendar-alt\x22></i>\x202020-2021</p>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09</li>\x0a\x0a\x09\x09\x09\x09<li\x20class=\x22item\x22\x20id=\x22freelancer\x22>\x0a\x09\x09\x09\x09\x09<a\x20href=\x22#freelancer\x22\x20class=\x22btn\x22>Freelancer</a>\x0a\x09\x09\x09\x09\x09<div\x20class=\x22experience\x22>\x0a\x09\x09\x09\x09\x09\x09<p>Desarrollador\x20Web\x20Junior</p>\x0a\x09\x09\x09\x09\x09\x09<p><i\x20class=\x22uil\x20uil-calendar-alt\x22></i>\x202021-Actualidad</p>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09</li>\x0a\x09\x09\x09</div>\x09\x09\x09\x0a\x09\x09</section>\x0a\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22page-divide\x22>\x0a\x09\x09<div\x20class=\x22divide\x22></div>\x0a\x09\x09<div\x20class=\x22divide-line\x20left\x22></div>\x0a\x09</div>\x0a\x0a\x09<div\x20class=\x22wrapper\x22>\x0a\x09\x09\x0a\x09\x09<section>\x0a\x09\x09\x09<div\x20class=\x22section-title\x22\x20id=\x22myservices\x22>\x0a\x09\x09\x09\x09<h1>Servicios</h1>\x0a\x09\x09\x09\x09<div\x20class=\x22underline\x22></div>\x0a\x09\x09\x09</div>\x0a\x0a\x09\x09\x09<div\x20class=\x22service-grid\x22>\x0a\x09\x09\x09\x09<div\x20class=\x22service\x22>\x0a\x09\x09\x09\x09\x09<h3>Desarrollo\x20Web</h3>\x0a\x09\x09\x09\x09\x09<span><i\x20class=\x22uil\x20uil-arrow\x22></i>\x20<i\x20class=\x22uil\x20uil-html5\x22></i>\x20<i\x20class=\x22uil\x20uil-css3-simple\x22></i>\x0a\x09\x09\x09\x09\x09<i\x20class=\x22uil\x20uil-java-script\x22></i></span>\x0a\x09\x09\x09\x09\x09<p>Enfocado\x20en\x20dar\x20una\x20agradable\x20experiencia\x20de\x20usuario,\x20e\x20interfaz\x20de\x20usuario\x20intuitiva.</p>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22service\x22>\x0a\x09\x09\x09\x09\x09<h3>Personalización\x20de\x20QR</h3>\x0a\x09\x09\x09\x09\x09<span><i\x20class=\x22uil\x20uil-qrcode-scan\x22></i>\x20<i\x20class=\x22uil\x20uil-palette\x22></i></span>\x0a\x09\x09\x09\x09\x09<p>Códigos\x20QR\x20llamativos\x20y\x20vistosos\x20con\x20personalización\x20de\x20Logo\x20y\x20de\x20colores.</p>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22service\x22>\x0a\x09\x09\x09\x09\x09<h3>Configuración\x20de\x20Web\x20Server</h3>\x0a\x09\x09\x09\x09\x09<span><i\x20class=\x22uil\x20uil-wifi-router\x22></i>\x20<i\x20class=\x22uil\x20uil-modem\x22></i></span>\x0a\x09\x09\x09\x09\x09<p>Administración\x20de\x20servidor\x20Web\x20basado\x20en\x20Linux\x20con\x20CPanel.</p>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22service\x22>\x0a\x09\x09\x09\x09\x09<h3>Soporte\x20Técnico\x20a\x20equipos</h3>\x0a\x09\x09\x09\x09\x09<span><i\x20class=\x22uil\x20uil-windows\x22></i>\x20<i\x20class=\x22uil\x20uil-desktop\x22></i>\x20<i\x20class=\x22uil\x20uil-mouse-alt-2\x22></i></span>\x0a\x09\x09\x09\x09\x09<p>Mantenimiento\x20preventivo\x20y\x20correctivo\x20de\x20computadoras\x20así\x20como\x20limpieza\x20y\x20fluidez\x20del\x20S.O.</p>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09</div>\x09\x09\x09\x0a\x09\x09</section>\x0a\x0a\x09</div>\x0a\x0a\x09<footer>\x0a\x09\x09<div\x20class=\x22wrapper\x22>\x0a\x0a\x09\x09\x09<div\x20class=\x22footer-grid\x22\x20id=\x22contactme\x22>\x0a\x09\x09\x09\x09<div\x20class=\x22links\x22>\x0a\x09\x09\x09\x09\x09<h3>Contacto</h3>\x0a\x09\x09\x09\x09\x09<ul>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20id=\x22callme\x22\x20href=\x22tel:+525576578841\x22><i\x20class=\x22uil\x20uil-outgoing-call\x22></i>\x20Llámame</a></li>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20id=\x22emailme\x22\x20href=\x22mailto:geeorge_13@hotmail.com\x22><i\x20class=\x22uil\x20uil-envelope-edit\x22></i>\x20E-mail</a></li>\x09\x09\x09\x09\x09\x09\x0a\x09\x09\x09\x09\x09</ul>\x0a\x09\x09\x09\x09\x09<br>\x0a\x09\x09\x09\x09\x09<a\x20href=\x22sms:+525576578841\x22\x20class=\x22btn-sms\x22><i\x20class=\x22uil\x20uil-comment-alt-lines\x22></i>\x20Envíame\x20un\x20SMS</a>\x0a\x09\x09\x09\x09</div>\x0a\x0a\x09\x09\x09\x09<div\x20class=\x22links\x22>\x0a\x09\x09\x09\x09\x09<h3>Accesos\x20Directos</h3>\x0a\x09\x09\x09\x09\x09<ul>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20href=\x22#beginning\x22>Inicio</a></li>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20href=\x22#myskills\x22>Habilidades</a></li>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20href=\x22#myportfolio\x22>Portafolio</a></li>\x0a\x09\x09\x09\x09\x09\x09<li><a\x20href=\x22#myservices\x22>Servicios</a></li>\x0a\x09\x09\x09\x09\x09</ul>\x0a\x09\x09\x09\x09</div>\x0a\x09\x09\x09</div>\x0a\x0a\x09\x09</div>\x0a\x09</footer>\x09\x0a\x0a\x09','%cThis\x20console\x20was\x20destinated\x20for\x20developers.\x20If\x20you\x20copy\x20or\x20paste\x20code\x20here\x20to\x20enable\x20some\x20function\x20that\x20unset\x20the\x20integrity\x20of\x20the\x20website\x20you\x20will\x20be\x20reported\x20and\x20we\x20will\x20take\x20actions\x20against\x20you\x20executing\x20a\x20XSS\x20attack..\x20you\x20were\x20notified.','7297keLGNs','Here\x20are\x20some\x20web\x20projects\x20that\x20I\x27ve\x20developed','<li><a\x20href=\x27#myportfolio\x27>Portfolio</a></li>','28487fBQqad','.links','shiftKey'];function _0x335d(_0x9eb847,_0x295991){return _0x335d=function(_0x47c33d,_0x335d7e){_0x47c33d=_0x47c33d-0xd0;let _0x34db58=_0x47c3[_0x47c33d];return _0x34db58;},_0x335d(_0x9eb847,_0x295991);}(function(_0x2b6643,_0x38ee55){const _0x2517d3=_0x335d;while(!![]){try{const _0x5bd22a=-parseInt(_0x2517d3(0x11b))+-parseInt(_0x2517d3(0xda))*parseInt(_0x2517d3(0x12e))+parseInt(_0x2517d3(0xe5))+parseInt(_0x2517d3(0x12f))*parseInt(_0x2517d3(0xdd))+parseInt(_0x2517d3(0x108))+-parseInt(_0x2517d3(0x118))+-parseInt(_0x2517d3(0xd5));if(_0x5bd22a===_0x38ee55)break;else _0x2b6643['push'](_0x2b6643['shift']());}catch(_0xc5e0c9){_0x2b6643['push'](_0x2b6643['shift']());}}}(_0x47c3,0x5bc26),function(){const _0x525d7b=_0x335d,_0x4e2438=document[_0x525d7b(0x128)]('#hide');let _0x3f6fae='';_0x3f6fae+=_0x525d7b(0xd8),_0x4e2438[_0x525d7b(0xf1)]=_0x3f6fae,window[_0x525d7b(0x11e)](_0x525d7b(0x110),()=>{const _0x2c9e6f=_0x525d7b,_0x3d05ea=document[_0x2c9e6f(0x128)](_0x2c9e6f(0x107));_0x3d05ea[_0x2c9e6f(0x137)]+='\x20hidden';}),window['onload']=function(){const _0x4c2ef2=_0x525d7b;let _0x59b17f=0x0,_0x5d8b1b=document[_0x4c2ef2(0x128)](_0x4c2ef2(0xe7));_0x5d8b1b[_0x4c2ef2(0x11e)](_0x4c2ef2(0xe9),()=>{const _0x363b13=_0x4c2ef2;if(_0x59b17f==0x0)_0x59b17f+=0x1,_0x5d8b1b[_0x363b13(0x137)]=_0x363b13(0x13b);else _0x59b17f==0x1&&(_0x59b17f=0x0,_0x5d8b1b[_0x363b13(0x137)]=_0x363b13(0xe4));}),$(function(){const _0x42742d=_0x4c2ef2;$(_0x42742d(0x139))['percircle']({'progressBarColor':'#00CBCE'}),$(_0x42742d(0xd3))[_0x42742d(0xee)]({'progressBarColor':'#00CBCE'}),$(_0x42742d(0x13e))['percircle']({'progressBarColor':_0x42742d(0x114)}),$(_0x42742d(0x123))[_0x42742d(0xee)]({'progressBarColor':'#00CBCE'});});let _0x137ea3=document[_0x4c2ef2(0x128)](_0x4c2ef2(0x124)),_0x41c68f=document[_0x4c2ef2(0x128)](_0x4c2ef2(0x102)),_0x424314=document[_0x4c2ef2(0x128)](_0x4c2ef2(0x13c));_0x41c68f[_0x4c2ef2(0xf3)][_0x4c2ef2(0xef)]=_0x4c2ef2(0x10d),_0x424314['style'][_0x4c2ef2(0xef)]=_0x4c2ef2(0x10d);let _0x31b701=window[_0x4c2ef2(0xd2)](_0xe9bf03,0x1770);function _0xe9bf03(){const _0x48d42c=_0x4c2ef2;if(_0x41c68f[_0x48d42c(0xf3)][_0x48d42c(0xef)]==_0x48d42c(0x10d)&&_0x424314['style']['display']==_0x48d42c(0x10d))_0x137ea3[_0x48d42c(0xf3)][_0x48d42c(0xef)]=_0x48d42c(0x10d),_0x41c68f[_0x48d42c(0xf3)][_0x48d42c(0xef)]=_0x48d42c(0x140);else{if(_0x41c68f[_0x48d42c(0xf3)][_0x48d42c(0xef)]=='block')_0x424314[_0x48d42c(0xf3)]['display']=_0x48d42c(0x140),_0x41c68f[_0x48d42c(0xf3)]['display']=_0x48d42c(0x10d);else _0x424314[_0x48d42c(0xf3)][_0x48d42c(0xef)]==_0x48d42c(0x140)&&(_0x137ea3[_0x48d42c(0xf3)]['display']=_0x48d42c(0x140),_0x424314[_0x48d42c(0xf3)]['display']=_0x48d42c(0x10d));}}let _0x281cf2=document['querySelector'](_0x4c2ef2(0xd4)),_0x5af737=0x0;_0x281cf2[_0x4c2ef2(0x11e)](_0x4c2ef2(0xe9),()=>{const _0x23bd9f=_0x4c2ef2;if(_0x5af737==0x0){_0x281cf2['innerHTML']=_0x23bd9f(0x141),_0x281cf2[_0x23bd9f(0xf3)]='background-color:\x20#00CBCE;\x20border:\x20solid\x203px\x20#FFFFFF;';let _0xe4c115=document[_0x23bd9f(0x128)]('.main-menu'),_0x3ec651=_0xe4c115['firstChild']['nextSibling'];_0x3ec651[_0x23bd9f(0x128)]('li:nth-child(1)')[_0x23bd9f(0xf1)]=_0x23bd9f(0x134),_0x3ec651[_0x23bd9f(0x128)](_0x23bd9f(0xd0))[_0x23bd9f(0xf1)]='<a\x20href=\x27#myskills\x27>Skills</a>',_0x3ec651[_0x23bd9f(0x128)]('li:nth-child(3)')[_0x23bd9f(0xf1)]='<a\x20href=\x27#myportfolio\x27>Portfolio</a>',_0x3ec651[_0x23bd9f(0x128)](_0x23bd9f(0x131))[_0x23bd9f(0xf1)]=_0x23bd9f(0xf8),_0x3ec651[_0x23bd9f(0x128)](_0x23bd9f(0xe3))[_0x23bd9f(0xf1)]=_0x23bd9f(0x130),_0x3ec651['querySelector'](_0x23bd9f(0xeb))['innerHTML']=_0x23bd9f(0xea);let _0x2f13bd=document[_0x23bd9f(0x128)](_0x23bd9f(0x12b)),_0x421b68=_0x2f13bd[_0x23bd9f(0x135)][_0x23bd9f(0x112)];_0x421b68[_0x23bd9f(0x128)]('h1:nth-child(1)')[_0x23bd9f(0xf1)]=_0x23bd9f(0x138),_0x421b68['querySelector']('a')[_0x23bd9f(0xf1)]='<a\x20id=\x27beginning\x27\x20href=\x27#aboutmyself\x27><i\x20class=\x27uil\x20uil-angle-double-right\x27></i>\x20Let\x27s\x20go!</a>';let _0x107f40=document['querySelector'](_0x23bd9f(0x126));_0x107f40[_0x23bd9f(0x128)]('h1')[_0x23bd9f(0xf1)]='<h1>About\x20Me</h1>';let _0x5dbc8a=document[_0x23bd9f(0x128)](_0x23bd9f(0x100));_0x5dbc8a[_0x23bd9f(0x128)]('p')[_0x23bd9f(0xf1)]=_0x23bd9f(0xf4);let _0x1de4d3=document[_0x23bd9f(0x128)](_0x23bd9f(0x115));_0x1de4d3[_0x23bd9f(0x128)]('h1')['innerHTML']=_0x23bd9f(0x133);let _0x4f6701=document[_0x23bd9f(0x128)](_0x23bd9f(0x120));_0x4f6701['querySelector']('h1')['innerHTML']=_0x23bd9f(0xfb);let _0x6435da=document[_0x23bd9f(0x128)](_0x23bd9f(0x106));_0x6435da['querySelector']('h1')[_0x23bd9f(0xf1)]=_0x23bd9f(0x116),_0x6435da[_0x23bd9f(0x128)]('h2')[_0x23bd9f(0xf1)]='<h2>E-commerce\x20&\x20Landing\x20Pages</h2>';let _0x855b5d=_0x6435da['getElementsByTagName'](_0x23bd9f(0x113));_0x855b5d[0x0]['innerHTML']=_0x23bd9f(0xdb),_0x855b5d[0x1][_0x23bd9f(0xf1)]=_0x23bd9f(0x132);let _0x350c11=document[_0x23bd9f(0xe6)](_0x23bd9f(0x121));_0x350c11[0x0]['querySelector'](_0x23bd9f(0xf2))[_0x23bd9f(0xf1)]='<h3>Responsive\x20Design</h3>',_0x350c11[0x1]['querySelector'](_0x23bd9f(0xd6))[_0x23bd9f(0xf1)]=_0x23bd9f(0x136),_0x350c11[0x2]['querySelector'](_0x23bd9f(0xf2))[_0x23bd9f(0xf1)]=_0x23bd9f(0x109);let _0x188e48=document['querySelector'](_0x23bd9f(0xe0));_0x188e48[_0x23bd9f(0x128)]('h1')['innerHTML']=_0x23bd9f(0xf5);let _0x4b8049=document[_0x23bd9f(0xe6)]('.experience');_0x4b8049[0x0][_0x23bd9f(0x128)](_0x23bd9f(0x13a))[_0x23bd9f(0xf1)]=_0x23bd9f(0xe8),_0x4b8049[0x0][_0x23bd9f(0x128)](_0x23bd9f(0x127))[_0x23bd9f(0xf1)]='English\x20Test\x20EFSET\x20->\x20<a\x20href=\x27http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTc3MTA5MDc1NzcS1&j=MTc2NDI3MjMxMgS2&mt\x27\x20target=\x27_blank\x27><i\x20class=\x27uil\x20uil-link-alt\x27></i></a>',_0x4b8049[0x1][_0x23bd9f(0x128)](_0x23bd9f(0x13a))[_0x23bd9f(0xf1)]=_0x23bd9f(0x12a),_0x4b8049[0x2][_0x23bd9f(0x128)](_0x23bd9f(0x13a))['innerHTML']=_0x23bd9f(0x10e),_0x4b8049[0x2][_0x23bd9f(0x128)](_0x23bd9f(0xf0))[_0x23bd9f(0xf1)]=_0x23bd9f(0xed);let _0x4cacc4=document[_0x23bd9f(0x128)](_0x23bd9f(0x104));_0x4cacc4[_0x23bd9f(0x128)]('h1')[_0x23bd9f(0xf1)]=_0x23bd9f(0x10f);let _0x426289=document[_0x23bd9f(0xe6)](_0x23bd9f(0x125));_0x426289[0x0][_0x23bd9f(0x128)]('h3')['innerHTML']=_0x23bd9f(0x11a),_0x426289[0x0]['querySelector']('p')[_0x23bd9f(0xf1)]=_0x23bd9f(0xf6),_0x426289[0x1]['querySelector']('h3')['innerHTML']=_0x23bd9f(0x111),_0x426289[0x1]['querySelector']('p')[_0x23bd9f(0xf1)]=_0x23bd9f(0xec),_0x426289[0x2][_0x23bd9f(0x128)]('h3')[_0x23bd9f(0xf1)]=_0x23bd9f(0x11d),_0x426289[0x2][_0x23bd9f(0x128)]('p')[_0x23bd9f(0xf1)]=_0x23bd9f(0xff),_0x426289[0x3][_0x23bd9f(0x128)]('h3')[_0x23bd9f(0xf1)]=_0x23bd9f(0xe2),_0x426289[0x3][_0x23bd9f(0x128)]('p')['innerHTML']='<p>Preventive\x20and\x20corrective\x20maintenance\x20of\x20your\x20desktop\x20computer\x20or\x20laptop,\x20as\x20well\x20as\x20smooth\x20O.S.</p>';let _0x2cf8ba=document[_0x23bd9f(0xe6)](_0x23bd9f(0xde));_0x2cf8ba[0x0][_0x23bd9f(0x128)]('h3')[_0x23bd9f(0xf1)]='<h3>Contact</h3>';let _0x2043dd=_0x2cf8ba[0x0]['querySelector']('ul');_0x2043dd[_0x23bd9f(0x128)](_0x23bd9f(0xf7))['innerHTML']=_0x23bd9f(0xfe),document[_0x23bd9f(0x128)](_0x23bd9f(0xd7))[_0x23bd9f(0xf1)]=_0x23bd9f(0xfd),_0x2cf8ba[0x1][_0x23bd9f(0x128)]('h3')['innerHTML']=_0x23bd9f(0x119);let _0x15db40=_0x2cf8ba[0x1]['querySelector']('ul');_0x15db40[_0x23bd9f(0x128)](_0x23bd9f(0xf7))['innerHTML']=_0x23bd9f(0x11c),_0x15db40[_0x23bd9f(0x128)](_0x23bd9f(0xd0))['innerHTML']=_0x23bd9f(0x12c),_0x15db40['querySelector'](_0x23bd9f(0xe1))[_0x23bd9f(0xf1)]=_0x23bd9f(0xdc),_0x15db40['querySelector'](_0x23bd9f(0x131))['innerHTML']=_0x23bd9f(0x117),_0x5af737=0x1;}else _0x5af737==0x1&&location[_0x23bd9f(0xd1)]();});},console['error']('%cStop!','color:\x20red;font-size:2.5rem;font-weight:bold;'),console[_0x525d7b(0x13d)](_0x525d7b(0xd9),_0x525d7b(0x122)),document[_0x525d7b(0x101)]=function(){return alert('WARNING\x20\x0aThe\x20security\x20on\x20the\x20website\x20was\x20improved.'),![];},document['addEventListener'](_0x525d7b(0xf9),_0x266801=>{const _0x107333=_0x525d7b;_0x266801['key']=='PrintScreen'&&(navigator[_0x107333(0x129)][_0x107333(0xfa)](''),alert(_0x107333(0x10a)));}),document[_0x525d7b(0x11e)](_0x525d7b(0x105),_0x3e3e1c=>{const _0x361b40=_0x525d7b;if(_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c['key']=='p'||_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='P')alert(_0x361b40(0x11f)),_0x3e3e1c[_0x361b40(0xfc)]();else{if(_0x3e3e1c[_0x361b40(0x13f)]&&_0x3e3e1c[_0x361b40(0xdf)])alert('SCREENCUTS\x20DETECTED!\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported');else{if(_0x3e3e1c['ctrlKey']&&_0x3e3e1c['key']=='s'||_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='S')alert(_0x361b40(0x12d)),_0x3e3e1c['preventDefault']();else{if(_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='c'||_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='C')alert('ERROR\x20This\x20Website\x20doesnt\x20allow\x20copy\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported'),_0x3e3e1c[_0x361b40(0xfc)]();else{if(_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='x'||_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='X')alert(_0x361b40(0x10b)),_0x3e3e1c[_0x361b40(0xfc)]();else(_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c['key']=='v'||_0x3e3e1c[_0x361b40(0x10c)]&&_0x3e3e1c[_0x361b40(0x103)]=='V')&&(alert('ERROR\x20This\x20Website\x20doesnt\x20allow\x20paste\x20\x0aDont\x20try\x20it\x20again\x20or\x20your\x20access\x20will\x20be\x20denied\x20and\x20reported'),_0x3e3e1c[_0x361b40(0xfc)]());}}}}});}());
+(function() {
+
+	const showinfo = document.querySelector("#hide");
+
+	let maintemplate = ``;
+
+	maintemplate += `
+
+	<div class="loader">
+		<span style="--i:1;"></span>
+		<span style="--i:2;"></span>
+		<span style="--i:3;"></span>
+		<span style="--i:4;"></span>
+		<span style="--i:5;"></span>
+		<span style="--i:6;"></span>
+		<span style="--i:7;"></span>
+		<span style="--i:8;"></span>
+		<span style="--i:9;"></span>
+		<span style="--i:10;"></span>
+		<span style="--i:11;"></span>
+		<span style="--i:12;"></span>
+		<span style="--i:13;"></span>
+		<span style="--i:14;"></span>
+		<span style="--i:15;"></span>
+		<span style="--i:16;"></span>
+		<span style="--i:17;"></span>
+		<span style="--i:18;"></span>
+		<span style="--i:19;"></span>
+		<span style="--i:20;"></span>
+	</div>
+
+	<div class="container-btn">
+		<input type="checkbox" id="btn-plus">
+		<div class="btnplus">
+			<label for="btn-plus" class="uil uil-plus-circle"></label>
+		</div>
+		<div class="hiddenBtns">
+			<a class="whats-btn" href="https://api.whatsapp.com/send?phone=+525576578841" target="_blank"><i class="uil uil-whatsapp"></i></a>
+			<a class="language-btn"><i class="uil uil-globe"></i> <p>EN</p></a>
+		</div>
+	</div>	
+
+	<div class="scroll-up">
+		<i class="uil uil-sort"></i>
+	</div>
+
+	<div class="wrapper">
+
+		<input type="checkbox" id="menu-toggle">
+		<header>
+			<h3>MI CV <i class="uil uil-user"></i></h3>
+			<div class="main-menu">
+				<ul>
+					<li><a href="#beginning">Inicio</a></li>
+					<li><a href="#myskills">Habilidades</a></li>
+					<li><a href="#myportfolio">Portafolio</a></li>
+					<li><a href="#myexperience">Experiencia</a></li>
+					<li><a href="#myservices">Servicios</a></li>
+					<li><a id="tocontact" href="#contactme"><i class="uil uil-envelope-exclamation"></i> Contacto</a></li>
+				</ul>
+			</div>
+
+			<label for="menu-toggle">
+				<i class="uil uil-bars"></i>
+			</label>
+		</header>
+
+		<div class="me">
+			<div>
+				<h1>Hola ! <br> Mi nombre es Jorge <br> soy Ing. en Sistemas</h1>
+				<a id="beginning" href="#aboutmyself"><i class="uil uil-angle-double-right"></i> Empecemos</a>
+			</div>
+			<img src="Img/mee.jpg" alt="">			
+		</div>
+
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line right"></div>
+	</div>
+
+	<div class="wrapper">
+		
+		<section>
+			<div class="section-title" id="aboutmyself">
+				<h1 >Acerca de Mi</h1>
+				<div class="underline"></div>
+			</div>
+
+			<div class="aboutme-wrapper">
+				<div class="aboutme-grap left"></div>
+				<div class="aboutme-grap right"></div>
+				<div class="aboutme">
+					<p>Desarrollador web con más de 2 años y medio de experiencia en el campo, Front End y Back End, apasionado por la tecnología.</p>
+				</div>
+			</div>			
+		</section>
+
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line left"></div>
+	</div>
+
+	<div class="slider-container">
+		<center><h1>Certificados</h1></center>
+		<div class="underline-slider"></div>
+		<br><br>
+		<div class="slider">
+			<div></div>
+			<div></div>
+			<div></div>			
+		</div>		
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line right"></div>
+	</div>
+
+	<div class="wrapper">
+		
+		<section>
+			<div class="section-title" id="myskills">
+				<h1>Habilidades</h1>
+				<div class="underline"></div>
+			</div>
+			<div class="skills-wrapper">
+				<div class="skill">
+					<div id="skillcircle-1" data-percent="70"></div>
+					<p>HTML <i class="uil uil-html5"></i></p>					
+				</div>
+				<div class="skill">
+					<div id="skillcircle-2" data-percent="60"></div>
+					<p>CSS <i class="uil uil-css3-simple"></i></p>					
+				</div>
+				<div class="skill">
+					<div id="skillcircle-3" data-percent="65"></div>
+					<p><i class="uil uil-java-script"></i> JavaScript </p>					
+				</div>
+				<div class="skill">
+					<div id="skillcircle-4" data-percent="65"></div>
+					<p><i class="uil uil-arrow"></i> PHP </p>					
+				</div>
+			</div>
+		</section>
+
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line left"></div>
+	</div>
+
+	<div class="wrapper">
+		
+		<section>
+			<div class="section-title" id="myportfolio">
+				<h1>Portafolio</h1>
+				<div class="underline"></div>
+				<small>Estos son algunos de los proyectos web que he hecho.</small>
+				<h2>E-commerce y Landing Pages</h2>
+				<small>Vitales para todo tipo de negocio.</small>
+			</div>
+
+
+			<div class="portfolio-wrapper">
+				<div class="bg-grap left"></div>
+				<div class="bg-grap right"></div>
+				<div class="portfolio">
+					<h3><i class="uil uil-selfie"></i></h3>
+					<h3>Responsive Design</h3>
+
+					<div class="image1-project1"></div>
+				</div>
+
+				<div class="portfolio">
+					<h3>Enlace a Web abajo</h3>
+					<small id="webproject"><a href="https://mandiles.epizy.com/main" target="_blank"><i class="uil uil-location-arrow"></i><i class="uil uil-globe"></i></a></small>
+
+					<div class="image2-project1"></div>
+				</div>
+
+				<div class="portfolio">
+					<h3><i class="uil uil-google"></i></h3>
+					<h3>Google Maps</h3>
+
+					<div class="image3-project1"></div>
+				</div>
+			</div>
+		</section>
+
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line right"></div>
+	</div>
+
+	<div class="new-wrapper">
+		
+		<section>
+			<div class="section-title" id="myexperience">
+				<h1>Experiencia Profesional</h1>
+			</div>
+
+			<div class="experience-wrapper">
+				<li class="item" id="atento">
+					<a href="#atento" class="btn">Atento</a>
+					<div class="experience">
+						<p>Soporte técnico bilingüe</p>
+						<p><i class="uil uil-calendar-alt"></i> 2018-2019</p>
+						<p>Test en Inglés EFSET -> <a href="http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTc3MTA5MDc1NzcS1&j=MTc2NDI3MjMxMgS2&mt" target="_blank"><i class="uil uil-link-alt"></i></a></p>
+					</div>
+				</li>
+
+				<li class="item" id="cefodeh">
+					<a href="#cefodeh" class="btn">Cefodeh</a>
+					<div class="experience">
+						<p>Desarrollador web junior </p>
+						<p><i class="uil uil-calendar-alt"></i> 2020-2021</p>
+					</div>
+				</li>
+
+				<li class="item" id="freelancer">
+					<a href="#freelancer" class="btn">Freelancer</a>
+					<div class="experience">
+						<p>Desarrollador web</p>
+						<p><i class="uil uil-calendar-alt"></i> 2021- Julio 2021</p>
+					</div>
+				</li>
+
+				<li class="item" id="scholastico">
+					<a href="#scholastico" class="btn">Scholastico</a>
+					<div class="experience">
+						<p>Desarrollador Web Full Stack</p>
+						<p><i class="uil uil-calendar-alt"></i> Agosto 2021-Actualidad</p>
+					</div>
+				</li>
+			</div>			
+		</section>
+
+	</div>
+
+	<div class="page-divide">
+		<div class="divide"></div>
+		<div class="divide-line left"></div>
+	</div>
+
+	<div class="wrapper">
+		
+		<section>
+			<div class="section-title" id="myservices">
+				<h1>Servicios</h1>
+				<div class="underline"></div>
+			</div>
+
+			<div class="service-grid">
+				<div class="service">
+					<h3>Desarrollo Web</h3>
+					<span><i class="uil uil-arrow"></i> <i class="uil uil-html5"></i> <i class="uil uil-css3-simple"></i>
+					<i class="uil uil-java-script"></i></span>
+					<p>Enfocado en dar una agradable experiencia de usuario, e interfaz de usuario intuitiva.</p>
+				</div>
+
+				<div class="service">
+					<h3>Personalización de QR</h3>
+					<span><i class="uil uil-qrcode-scan"></i> <i class="uil uil-palette"></i></span>
+					<p>Códigos QR llamativos y vistosos con personalización de Logo y de colores.</p>
+				</div>
+
+				<div class="service">
+					<h3>Configuración de Web Server</h3>
+					<span><i class="uil uil-wifi-router"></i> <i class="uil uil-modem"></i></span>
+					<p>Administración de servidor Web basado en Linux con CPanel.</p>
+				</div>
+
+				<div class="service">
+					<h3>Soporte Técnico a equipos</h3>
+					<span><i class="uil uil-windows"></i> <i class="uil uil-desktop"></i> <i class="uil uil-mouse-alt-2"></i></span>
+					<p>Mantenimiento preventivo y correctivo de computadoras así como limpieza y fluidez del S.O.</p>
+				</div>
+			</div>			
+		</section>
+
+	</div>
+
+	<footer>
+		<div class="wrapper">
+
+			<div class="footer-grid" id="contactme">
+				<div class="links">
+					<h3>Contacto</h3>
+					<ul>
+						<li><a id="callme" href="tel:+525576578841"><i class="uil uil-outgoing-call"></i> Llámame</a></li>
+						<li><a id="emailme" href="mailto:geeorge_13@hotmail.com"><i class="uil uil-envelope-edit"></i> E-mail</a></li>						
+					</ul>
+					<br>
+					<a href="sms:+525576578841" class="btn-sms"><i class="uil uil-comment-alt-lines"></i> Envíame un SMS</a>
+				</div>
+
+				<div class="links">
+					<h3>Accesos Directos</h3>
+					<ul>
+						<li><a href="#beginning">Inicio</a></li>
+						<li><a href="#myskills">Habilidades</a></li>
+						<li><a href="#myportfolio">Portafolio</a></li>
+						<li><a href="#myservices">Servicios</a></li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+	</footer>	
+
+	`;
+
+	showinfo.innerHTML = maintemplate;
+
+	//WEB Animation reload
+
+	window.addEventListener("load", () => {
+		const loader = document.querySelector(".loader");
+		loader.className += " hidden";
+	}); 
+
+	window.onload = function() {
+
+		// BTN Plus Function
+
+		let btnPlusActive = 0;
+		let btnPlus = document.querySelector(".uil-plus-circle");
+
+		btnPlus.addEventListener('click', () => {
+
+			if (btnPlusActive == 0) {
+				btnPlusActive += 1;
+				btnPlus.className = "uil-times-circle";
+			}
+
+			else if (btnPlusActive == 1) {
+				btnPlusActive = 0;
+				btnPlus.className = "uil-plus-circle";
+			}
+
+		});
+
+		// SKILL Function
+
+		// $(function(){
+  //   	    $("#skillcircle-1").percircle({progressBarColor: '#00CBCE'});
+  //   	    $("#skillcircle-2").percircle({progressBarColor: '#00CBCE'});
+  //   	    $("#skillcircle-3").percircle({progressBarColor: '#00CBCE'});
+  //   	    $("#skillcircle-4").percircle({progressBarColor: '#00CBCE'});
+  //   	});
+
+
+    	// CERT SLIDER FUNCTION
+
+    	let slider1 = document.querySelector(".slider div:nth-child(1)");
+    	let slider2 = document.querySelector(".slider div:nth-child(2)");
+    	let slider3 = document.querySelector(".slider div:nth-child(3)");
+
+    	slider2.style.display = "none";
+    	slider3.style.display = "none";    	
+
+    	let sliderInterval = window.setInterval(changeSlider, 6000);
+
+    	function changeSlider() {
+
+    		if (slider2.style.display == "none"  && slider3.style.display == "none") {
+    			slider1.style.display = "none";
+    			slider2.style.display = "block";
+    		}
+
+    		else if (slider2.style.display == "block") {
+    			slider3.style.display = "block";
+    			slider2.style.display = "none";
+    		}
+
+    		else if (slider3.style.display == "block") {
+    			slider1.style.display = "block";
+    			slider3.style.display = "none";    			
+    		}
+
+    		// else if (slider2.style.display == "block") {
+    		// 	slider1.style.display = "block";
+    		// 	slider2.style.display = "none";
+    		// }
+
+    	}
+
+    	// CHANGE LANGUAGE
+
+    	let langBtn = document.querySelector(".language-btn");
+
+    	let langBtnActive = 0; 
+
+    	langBtn.addEventListener('click', () => {
+
+    		if (langBtnActive == 0) {
+
+    			langBtn.innerHTML = "<i class='uil uil-globe' style='color:#FFFFFF;'></i> <p>ES</p>";
+    			langBtn.style = "background-color: #00CBCE; border: solid 3px #FFFFFF;";
+
+    			let mainmenu = document.querySelector(".main-menu");
+    			let Ulmainmenu = mainmenu.firstChild.nextSibling;
+    		
+    			Ulmainmenu.querySelector("li:nth-child(1)").innerHTML = "<a href='#beginning'>Main</a>";
+    			Ulmainmenu.querySelector("li:nth-child(2)").innerHTML = "<a href='#myskills'>Skills</a>";
+    			Ulmainmenu.querySelector("li:nth-child(3)").innerHTML = "<a href='#myportfolio'>Portfolio</a>";
+    			Ulmainmenu.querySelector("li:nth-child(4)").innerHTML = "<a href='#myexperience'>Experience</a>";
+    			Ulmainmenu.querySelector("li:nth-child(5)").innerHTML = "<a href='#myservices'>Services</a>";
+    			Ulmainmenu.querySelector("li:nth-child(6)").innerHTML = "<a href='#contactme'><i class='uil uil-envelope-exclamation'></i> Contact</a>";
+
+    			let me = document.querySelector(".me");
+    			let Divme = me.firstChild.nextSibling;
+
+    			Divme.querySelector("h1:nth-child(1)").innerHTML = 
+    			"<h1 style='font-size:2.8rem; line-height: 4.2rem;'>Hi ! <br> My name is Jorge <br> I'm a computer <br> systems engineer</h1>";
+
+    			Divme.querySelector("a").innerHTML =
+    			"<a id='beginning' href='#aboutmyself'><i class='uil uil-angle-double-right'></i> Let's go!</a>";
+
+    			//me.querySelector("img").style = "width: 20vw;";
+
+    			let aboutMyself = document.querySelector("#aboutmyself");
+    			aboutMyself.querySelector("h1").innerHTML = "<h1>About Me</h1>";
+
+    			let aboutMee = document.querySelector(".aboutme");
+    			aboutMee.querySelector("p").innerHTML = 
+    			"<p>Web developer with almost 3 years of experience on the field, Front End and Back End , I love coding.</p>";
+
+    			let certificate = document.querySelector(".slider-container");
+    			certificate.querySelector("h1").innerHTML = "Certificates"; 
+
+    			let mySkills = document.querySelector("#myskills");
+    			mySkills.querySelector("h1").innerHTML = "<h1>Web Skills</h1>";
+
+    			let myPortfolio = document.querySelector("#myportfolio");
+    			myPortfolio.querySelector("h1").innerHTML = "<h1>Portfolio</h1>";    			
+    			myPortfolio.querySelector("h2").innerHTML = "<h2>E-commerce & Landing Pages</h2>";
+
+    			let myPortfolioSmall = myPortfolio.getElementsByTagName("small");
+				myPortfolioSmall[0].innerHTML = "Here are some web projects that I've developed";
+    			myPortfolioSmall[1].innerHTML = "Essential for all kind of business";
+
+    			let portfolioWrapperDiv = document.querySelectorAll(".portfolio");
+    			portfolioWrapperDiv[0].querySelector("h3:nth-child(2)").innerHTML = "<h3>Responsive Design</h3>";
+    			portfolioWrapperDiv[1].querySelector("h3:nth-child(1)").innerHTML = "<h3>Web Link below</h3>";
+    			portfolioWrapperDiv[2].querySelector("h3:nth-child(2)").innerHTML = "<h3>Google Services</h3>";
+
+    			let experiences = document.querySelector("#myexperience");
+    			experiences.querySelector("h1").innerHTML = "<h1>Experience</h1>";
+
+    			let jobs = document.querySelectorAll(".experience");
+    			jobs[0].querySelector("p:nth-child(1)").innerHTML = "Bilingual Technical Support";
+    			jobs[0].querySelector("p:nth-child(3)").innerHTML = 
+    			"English Test EFSET -> <a href='http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NTES1&r=LTc3MTA5MDc1NzcS1&j=MTc2NDI3MjMxMgS2&mt' target='_blank'><i class='uil uil-link-alt'></i></a>";
+    			jobs[1].querySelector("p:nth-child(1)").innerHTML = "Junior Web Developer";
+    			jobs[2].querySelector("p:nth-child(1)").innerHTML = "Web Developer";
+    			jobs[2].querySelector("p:nth-child(2)").innerHTML = "<i class='uil uil-calendar-alt'></i> 2021-July 2021";
+    			jobs[3].querySelector("p:nth-child(1)").innerHTML = "Full Stack Web Developer";
+    			jobs[3].querySelector("p:nth-child(2)").innerHTML = "<i class='uil uil-calendar-alt'></i> August 2021-Today";
+
+    			let myServices = document.querySelector("#myservices");
+    			myServices.querySelector("h1").innerHTML = "<h1>Services</h1>";
+
+    			let serviceDiv = document.querySelectorAll(".service");
+    			serviceDiv[0].querySelector("h3").innerHTML = "<h3>Web Development</h3>";
+    			serviceDiv[0].querySelector("p").innerHTML = "<p>Focused on giving a nice user experience and awesome intuitive user interface.</p>";
+    			serviceDiv[1].querySelector("h3").innerHTML = "<h3>QR Personalization</h3>";
+    			serviceDiv[1].querySelector("p").innerHTML = "<p>Awesome colorful QR codes with Logo personalization, easy on the eye.</p>";
+    			serviceDiv[2].querySelector("h3").innerHTML = "<h3>Web Server Settings</h3>";
+    			serviceDiv[2].querySelector("p").innerHTML = "<p>Linux based Web Server management with control CPanel.</p>";
+    			serviceDiv[3].querySelector("h3").innerHTML = "<h3>Technical Support</h3>";
+    			serviceDiv[3].querySelector("p").innerHTML = "<p>Preventive and corrective maintenance of your desktop computer or laptop, as well as smooth O.S.</p>";
+
+    			let contactMeDiv = document.querySelectorAll(".links");
+
+    			contactMeDiv[0].querySelector("h3").innerHTML = "<h3>Contact</h3>";
+
+    			let contactMeDiv1Ul = contactMeDiv[0].querySelector("ul");
+    			contactMeDiv1Ul.querySelector("li:nth-child(1)").innerHTML = 
+    			"<li><a id='callme' href='tel:+525576578841'><i class='uil uil-outgoing-call'></i> Call me!</a></li>";
+    			document.querySelector(".btn-sms").innerHTML = 
+    			"<a href='sms:+525576578841' class='btn-sms'><i class='uil uil-comment-alt-lines'></i> Send me a SMS</a>";
+
+    			contactMeDiv[1].querySelector("h3").innerHTML = "<h3>ShortCuts</h3>";
+
+    			let contactMeDiv2Ul = contactMeDiv[1].querySelector("ul");
+    			contactMeDiv2Ul.querySelector("li:nth-child(1)").innerHTML = 
+    			"<li><a href='#beginning'>Main</a></li>";
+    			contactMeDiv2Ul.querySelector("li:nth-child(2)").innerHTML = 
+    			"<li><a href='#myskills'>Skills</a></li>";
+    			contactMeDiv2Ul.querySelector("li:nth-child(3)").innerHTML = 
+    			"<li><a href='#myportfolio'>Portfolio</a></li>";
+    			contactMeDiv2Ul.querySelector("li:nth-child(4)").innerHTML = 
+    			"<li><a href='#myservices'>Services</a></li>";
+
+
+    			langBtnActive = 1;
+
+    		}
+
+    		else if (langBtnActive == 1) {
+
+    			location.reload();
+
+    		}
+    		
+    	});
+	   	
+
+    }
+
+    // IMPROVEMENT WEB
+
+    /** F12 TOOLS .. DEVELOPER ACCESS PERSONALIZATION **/
+	console.error('%cStop!', 'color: red;font-size:2.5rem;font-weight:bold;');  
+	console.warn('%cThis console was destinated for developers. If you copy or paste code here to enable some function that unset the integrity of the website you will be reported and we will take actions against you executing a XSS attack.. you were notified.','font-size:1.25rem;line-height:1.1;'); 
+
+	/** DISABLE RIGHT CLICK **/
+	document.oncontextmenu = function() {
+		alert('WARNING \nThe security on the website was improved.');
+    	
+    	return false;
+	};
+
+	/** DISABLE SCREEN SHOT **/
+	document.addEventListener('keyup', (e) => {
+
+    	if (e.key == 'PrintScreen') {
+        	navigator.clipboard.writeText('');
+        	
+        	alert('ERROR SCREENSHOT DISABLED! \nDont try it again or you will be reported');
+	    }
+
+	});
+
+	/** DISABLE SCREEN IMPRESSION OR PDF EXPORT WITH (CTRL+P) & DISABLE SCREENCUTS (CTRL+SHIFT+S)**/
+	document.addEventListener('keydown', (e) => {
+
+    	if (e.ctrlKey && e.key == 'p' || e.ctrlKey && e.key == 'P') {
+    		alert('ERROR This section doesnt allow impression or PDF export \nDont try it again or your access will be denied and reported');
+        	
+        	e.preventDefault();
+	    }
+
+	    else if (e.metaKey && e.shiftKey) {
+	    	alert('SCREENCUTS DETECTED! \nDont try it again or your access will be denied and reported');
+
+    	}
+
+    	else if (e.ctrlKey && e.key == 's' || e.ctrlKey && e.key == 'S') {
+    		alert('ERROR This Website cant be downloaded \nDont try it again or your access will be denied and reported');
+        	
+        	e.preventDefault();
+    	} 
+
+    	else if (e.ctrlKey && e.key == 'c' || e.ctrlKey && e.key == 'C') {
+    		alert('ERROR This Website doesnt allow copy \nDont try it again or your access will be denied and reported');
+        	
+        	e.preventDefault();
+    	}
+
+    	else if (e.ctrlKey && e.key == 'x' || e.ctrlKey && e.key == 'X') {
+    		alert('ERROR This Website doesnt allow cut \nDont try it again or your access will be denied and reported');
+        	
+        	e.preventDefault();
+    	}
+
+    	else if (e.ctrlKey && e.key == 'v' || e.ctrlKey && e.key == 'V') {
+    		alert('ERROR This Website doesnt allow paste \nDont try it again or your access will be denied and reported');
+        	
+        	e.preventDefault();
+    	}
+
+	});	
+
+})();
